@@ -1,0 +1,11 @@
+
+1. Reviewed existing .ipynb notebooks to understand data preprocessing, feature engineering, and metrics.
+2. Decided how to handle the "SYNOPCode" column.
+3. Built two new Random Forest models with the same data preprocessing and feature engineering.
+4. Performed Feature Importance Analysis for the models.
+5. Evaluated the models using RMSE and R^2 metrics.
+6. Discussed model combination strategies and built a Cascading Random Forest model.
+7. Built and evaluated a Multi-Output Random Forest model.
+8. Built and evaluated a Reverse Cascading Random Forest model.
+9. Compared the performance metrics of all five models.
+10. Performed an analysis of the model results.
