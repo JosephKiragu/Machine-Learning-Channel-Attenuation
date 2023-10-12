@@ -1,0 +1,25 @@
+
+### Discussion and Steps for Building Neural Network Models
+
+1. **Brainstorming on Neural Network Models**
+   - Discussed various types of neural networks suitable for the multi-output prediction problem.
+   - Options considered were Feedforward Neural Network (FNN), Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), Multi-Task Learning, and Hybrid Models.
+  
+2. **Decision on Models to Build**
+   - Decided to build Feedforward Neural Network (FNN), Convolutional Neural Network (CNN), and Multi-Task Learning Neural Network.
+  
+3. **Data Preprocessing**
+   - Used a subset of the data to avoid timeouts.
+   - Separated features and targets, normalized features.
+  
+4. **Feedforward Neural Network (FNN)**
+   - Built a simple FNN model using PyTorch (code generated for local execution).
+  
+5. **Convolutional Neural Network (CNN)**
+   - Planned to build a CNN model using PyTorch (code generated for local execution).
+  
+6. **Multi-Task Learning Neural Network**
+   - Planned to build a Multi-Task Learning model using PyTorch (code generated for local execution).
+
+7. **Code Generation**
+   - Generated PyTorch code for FNN, CNN, and Multi-Task Learning models for user to run on their local machine.
